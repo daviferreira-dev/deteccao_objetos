@@ -1,2 +1,3 @@
-pip install ultralytics or pip3 install ultralytics
-python deteccao_obj.py
+pip install ultralytics 
+python.exe -m pip install --upgrade pip
+ctrl + shift + p pesquisar terminal default e colocar para o cmd do windows
