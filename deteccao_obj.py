@@ -3,7 +3,7 @@ import cv2
 import math 
 # start webcam
 cap = cv2.VideoCapture(0)
-cap.set(3, 1920) #padrão inicial: 640
+cap.set(3, 2000) #padrão inicial: 640
 cap.set(4, 1080) #padrão inicial: 480
 
 # model

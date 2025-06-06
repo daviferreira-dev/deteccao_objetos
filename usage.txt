@@ -1,0 +1,2 @@
+pip install ultralytics or pip3 install ultralytics
+python deteccao_obj.py
